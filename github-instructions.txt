@@ -1,0 +1,7 @@
+https://github.com/lojose/Test.git
+
+git remote add origin https://github.com/lojose/Test.git
+
+
+git add .
+git commit -m "initial commit"
